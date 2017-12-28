@@ -18,6 +18,7 @@
 
 # 项目目录
 
+* []
     * ActivityLifeCircleTest
     * AndroidThreadTest
     * BroadcastBestPractice
